@@ -111,7 +111,7 @@
 .content_wisdom .wisdom_title h3 {display: inline-block;font-size: 24px;font-weight: 600;margin: 30px 0 20px 0;}
 .content_wisdom .wisdom_title .rig {float: right;padding-top: 30px;}
 .content_wisdom .wisdom_title .rig i {padding: 0 5px;}
-.wisdom_datalist .datalis1 {display: inline-block;margin-right: 19px;box-sizing: border-box;} 
+.wisdom_datalist .datalis1 {display: inline-block;margin-right: 15px; margin-bottom:60px;box-sizing: border-box;} 
 .wisdom_datalist .datalis1 {width: 285px;height: 342px;background-color: #fff;text-align: center;padding: 20px 35px;}
 .wisdom_datalist .profit {padding-bottom: 30px;}
 .wisdom_datalist .datalis1 h3 {margin: 10px 0 30px 0;font-size: 18px;color: #333333;font-weight: 600;}
