@@ -1,0 +1,14 @@
+.pop-tel img {
+  width: 0.92rem;
+  height: 0.92rem;
+  margin-top: 0.43rem;
+}
+.pop-tel .el-message-box__btns {
+  margin-top: 0.38rem;
+}
+.pop-tel .err {
+  margin-top: 0.48rem;font-size: 0.24rem;color: #666;letter-spacing: 1px;
+}
+.pop-tel .mess {
+  margin-top: 0.2rem;font-size: 0.24rem;color: #666;letter-spacing: 1px;padding: 0 0.2rem;line-height: 24px;
+}

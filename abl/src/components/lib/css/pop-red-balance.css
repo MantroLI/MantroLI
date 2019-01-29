@@ -1,0 +1,22 @@
+.pop-red-balance img {
+  width: 0.77rem;
+  height: 0.77rem;
+  margin-top: 0.49rem;
+}
+.pop-red-balance .el-message-box__btns {
+  margin-top: 0.4rem;padding: 0;
+}
+.pop-red-balance .p-red {
+  width: 100%; 
+  height: 2.51rem;
+  background-image: url(../../../assets/img/red-background.png);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  box-sizing: border-box;
+}
+.pop-red-balance .p-red .err {
+  margin-top: 0.31rem;font-size: 0.28rem;color: #fff;letter-spacing: 1px;
+}
+.pop-red-balance .mess {
+  margin-top: 0.5rem;font-size: 0.24rem;color: #666;letter-spacing: 1px;
+}

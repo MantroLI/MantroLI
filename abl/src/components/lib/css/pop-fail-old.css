@@ -1,0 +1,9 @@
+.pop-fail-old .err {
+  margin-top: 1rem;
+}
+.pop-fail-old .mess {
+  margin-top: 0.3rem;
+}
+.pop-fail-old .el-message-box__btns {
+  margin-top: 0.9rem;padding: 0;
+}

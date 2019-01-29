@@ -1,0 +1,9 @@
+.pop-down .err {
+  margin-top: 1rem;font-size: 0.24rem;color: #666;letter-spacing: 1px;
+}
+.pop-down .mess {
+  margin-top: 0.22rem;font-size: 0.24rem;color: #666;letter-spacing: 1px
+}
+.pop-down .el-message-box__btns {
+  margin-top: 0.9rem;padding:0;  
+}
